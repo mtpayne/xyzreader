@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-713d9dd9d4c5c108399e675ba7c59873ef94829b.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-4fa4260270e58a511ad3c1d031898ef256446716.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-7d137196a2ab97810a38ca42f56acccbefee19c9.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ce4a3f7a994f27e9084b2451557c40af5fa01949.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-ce4a3f7a994f27e9084b2451557c40af5fa01949.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4d94ebeef392e3c4e9fd20d310fdb309d81cb0dc.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-713d9dd9d4c5c108399e675ba7c59873ef94829b.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-7d24714807b777c2cba37e50b25c5bf93bbceac0.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-362e9eaedf79dbd1b48641ee6f2a7070f5bd796b.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-da5efbbc7e4252d8672bfbfb3d7e534cfb6f1d29.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6750718e101f0eaaa7d408a79db81d0024d04683.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4d94ebeef392e3c4e9fd20d310fdb309d81cb0dc.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6b9e4613f713fc4424f53c15b0fe615cf758f148.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-e1ff268ddc54d468fcf9f2b01d9a1b3a10b52a5b.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-da5efbbc7e4252d8672bfbfb3d7e534cfb6f1d29.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.0.1-14ca55b2edc8e299c94d77a48f31b5172c4239ca.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-7d24714807b777c2cba37e50b25c5bf93bbceac0.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-e1ff268ddc54d468fcf9f2b01d9a1b3a10b52a5b.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-59b0006fcc58a8661310f74f8ab3648527c09cbf.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-362e9eaedf79dbd1b48641ee6f2a7070f5bd796b.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6b9e4613f713fc4424f53c15b0fe615cf758f148.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.0.1-14ca55b2edc8e299c94d77a48f31b5172c4239ca.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-59b0006fcc58a8661310f74f8ab3648527c09cbf.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-7d137196a2ab97810a38ca42f56acccbefee19c9.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6750718e101f0eaaa7d408a79db81d0024d04683.jar" />
+    </item>
+    <item
+        jar="/Users/mpama/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/mpama/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-4fa4260270e58a511ad3c1d031898ef256446716.jar" />
+    </item>
+
+</items>
