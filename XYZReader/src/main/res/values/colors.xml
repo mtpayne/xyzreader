@@ -26,4 +26,7 @@
     <color name="indigo_700">#303F9F</color>
     <color name="pink_a200">#FF4081</color>
 
+    <color name="detail_heading_bc">#333</color>
+    <color name="detail_body_bc">#fff</color>
+
 </resources>
